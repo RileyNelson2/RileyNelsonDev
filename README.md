@@ -101,7 +101,7 @@ A back-end web application built with a development team using Agile/Scrum metho
     </tr>
     <tr>
       <td>📍</td>
-      <td>Fort Collins, CO</td>
+      <td>Boise, ID</td>
     </tr>
     <tr>
       <td>💼</td>
