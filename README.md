@@ -25,7 +25,6 @@ I enjoy turning complex datasets into clear, accessible, and actionable informat
 
 **SPUR Air Quality Dashboard — CSU Geospatial Centroid**
 
-![image](placeholder_spur_dashboard.png)
 
 A public-facing web application delivering real-time environmental sensor data to researchers and educators. I contributed interactive mapping features, variable selectors, and modular data cards integrating air quality, land use, and weather station datasets using React, TypeScript, Leaflet, and D3.js.
 
@@ -35,7 +34,6 @@ A public-facing web application delivering real-time environmental sensor data t
 
 **Fine Motor Learning in VR — Capstone Research Project**
 
-![image](placeholder_vr_capstone.png)
 
 A research project comparing fine motor muscle memory acquisition in Virtual Reality versus real-world practice. Participants learned a pattern-drawing task in either a VR or physical classroom, then were assessed on accuracy and completion time in a real-world transfer test. Built in Unity for Meta Quest 3 using C# and the Meta XR SDK.
 
@@ -45,7 +43,6 @@ A research project comparing fine motor muscle memory acquisition in Virtual Rea
 
 **Motive — VR Game**
 
-![image](placeholder_vr_game.png)
 
 A collaborative VR game project featuring original artwork by a teammate. Built as a team in Unity using iterative design and agile collaboration.
 
@@ -55,7 +52,6 @@ A collaborative VR game project featuring original artwork by a teammate. Built 
 
 **NASA Hackathon 2025 — Trail Detection with LiDAR and Deep Learning**
 
-![image](placeholder_hackathon.png)
 
 A 24-hour sprint to build a deep learning pipeline detecting and mapping trail networks from LiDAR and NAIP aerial imagery. Implemented a U-Net segmentation model with combo loss and IoU tracking using Python and Jupyter Notebooks.
 
@@ -65,7 +61,6 @@ A 24-hour sprint to build a deep learning pipeline detecting and mapping trail n
 
 **Color Extravaganza — Accessible Color Training Tool**
 
-![image](placeholder_color_tool.png)
 
 A front-end web tool designed to help colorblind users train color recognition, built with Angular and TypeScript using modern web standards and UX design principles with accessibility at its core.
 
@@ -75,8 +70,6 @@ A front-end web tool designed to help colorblind users train color recognition, 
 
 **IoT Plant Moisture Sensor**
 
-![image](placeholder_iot.png)
-
 A Raspberry Pi-based plant monitoring system using Python and a STEMMA soil sensor, with real-time Discord notifications when moisture levels drop. A hands-on hardware and software integration project.
 
 *Repository currently private — code available upon request.*
@@ -85,7 +78,6 @@ A Raspberry Pi-based plant monitoring system using Python and a STEMMA soil sens
 
 **Brewery Tour Web Application**
 
-![image](placeholder_brewery.png)
 
 A back-end web application built with a development team using Agile/Scrum methodology and GitHub Projects for task tracking and version control.
 
