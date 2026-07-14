@@ -1,5 +1,3 @@
-# RileyNelsonDev
-
 ## ABOUT ME
 
 Hello! I'm Riley Nelson 👋, a Computer Science graduate, former educator, and aspiring software engineer with a passion for geospatial technology, clean code, and solving real-world problems. With experience spanning software development, GIS application development, field work, and over a decade in people-focused professional roles, I bring a unique perspective to every project I work on.
