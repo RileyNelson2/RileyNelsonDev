@@ -81,7 +81,7 @@ A Raspberry Pi-based plant monitoring system using Python and a STEMMA soil sens
 
 A back-end web application built with a development team using Agile/Scrum methodology and GitHub Projects for task tracking and version control.
 
-*Code available upon request.*
+*Repository currently private — code available upon request.*
 
 ---
 
